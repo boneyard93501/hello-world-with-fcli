@@ -1,6 +1,6 @@
 .idea
 .DS_Store
-.fluence
+.fuence/project-secrets.yaml
 **/node_modules
 **/target/
 .repl_history

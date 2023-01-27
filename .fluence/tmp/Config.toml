@@ -1,0 +1,3 @@
+[[module]]
+name = "hello_world"
+load_from = "/Users/bebo/localdev/hello-world-with-fcli/services/modules/hello_world/target/wasm32-wasi/release/hello_world.wasm"
